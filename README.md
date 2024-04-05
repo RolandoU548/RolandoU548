@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rolando Uzcátegui</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&random=false&width=435&lines=Full-Stack-Developer,;Computer+Science+Student,;Active+Learner/Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&random=false&width=435&lines=Full-Stack-Developer,;Computer+Science+Student,;Active+Learner/Researcher" alt="Typing SVG" />
 </p>
 
 - 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/)
