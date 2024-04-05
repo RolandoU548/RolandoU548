@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rolando Uzcátegui</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&weight=800&center=true&center=true&width=600&height=100&lines=Full-Stack-Developer,;Computer+Science+Student,;Active+Learner/Researcher">
 </p>
 
