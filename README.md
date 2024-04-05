@@ -9,6 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/RolandoU548/RolandoU548" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+      <a href="[[https://github.com/pingcap/ossinsight/discussions](https://github.com/RolandoU548/RolandoU548)](https://linkedin.com/in/rolando-uzcátegui)" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=181717&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 <a href="https://linkedin.com/in/rolando-uzcátegui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rolando-uzcátegui" height="30" width="40" /></a>
   <a href="mailto:ossinsight@pingcap.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
