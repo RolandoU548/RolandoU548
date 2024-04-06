@@ -4,7 +4,7 @@
 </p>
 
 <div>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="30%"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="30%" height="50px"/>
   <p width="70%">
     - 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/)
 
@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **rolandou548@gmail.com**
   </p>
-
 </div>
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h3>
