@@ -37,5 +37,5 @@
 </a>
 </div>
 
-[![RolandoU548's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RolandoU548&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![RolandoU548's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RolandoU548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![RolandoU548's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RolandoU548&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
