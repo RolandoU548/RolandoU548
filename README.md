@@ -1,4 +1,4 @@
-![image](https://github.com/RolandoU548/RolandoU548/assets/138274526/a62c57e2-c006-40c2-b7eb-902fc88e0159)<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rolando Uzcátegui</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rolando Uzcátegui</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2D9DCFFF&center=true&random=false&width=435&lines=Full-Stack-Developer,;Computer+Science+Student,;Active+Learner/Researcher" alt="Typing SVG" />
@@ -31,11 +31,11 @@
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <div align="center">
-  <a href="https://github.com/rolandou548/github-readme-stats#gh-dark-mode-only" target="_blank" style="pointer-events: none;">
+  <a href="https://github.com/rolandou548/github-readme-stats#gh-dark-mode-only" target="_blank">
      <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742" alt="RolandoU548's GitHub stats-Dark" width="60%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742"  alt="RolandoU548's GitHub stats-Dark" width="60%">
   </a>
-  <a href="https://github.com/rolandou548/github-readme-stats#gh-light-mode-only" target="_blank" style="pointer-events: none;">
+  <a href="https://github.com/rolandou548/github-readme-stats#gh-light-mode-only" target="_blank">
      <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20" alt="RolandoU548's GitHub stats-Dark" width="60%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20"  alt="RolandoU548's GitHub stats-Dark" width="60%">
   </a>
