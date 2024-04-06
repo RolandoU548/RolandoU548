@@ -33,11 +33,11 @@
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <div align="center">
   <a href="https://github.com/rolandou548#gh-dark-mode-only" target="_blank">
-     <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742&border_radius=6" alt="RolandoU548's GitHub stats-Dark" width="60%">
+     <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742" alt="RolandoU548's GitHub stats-Dark" width="60%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742"  alt="RolandoU548's GitHub stats-Dark" width="60%">
   </a>
   <a href="https://github.com/rolandou548#gh-light-mode-only" target="_blank">
-     <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&border_radius=8" alt="RolandoU548's GitHub stats-Dark" width="60%">
+     <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20" alt="RolandoU548's GitHub stats-Dark" width="60%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20"  alt="RolandoU548's GitHub stats-Dark" width="60%">
   </a>
 </div>
