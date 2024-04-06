@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/)
 
-- 🌱 I’m currently learning **C++** and Express
+- 🌱 I’m learning **C++** and Express
+
+- 🔭 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, <a href="https://drive.google.com" target="_blank">MY RESUME.</a>
 
 - 📫 How to reach me **rolandou548@gmail.com**
 
