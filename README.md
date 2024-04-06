@@ -32,7 +32,7 @@
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <div align="center">
 <a href="https://github.com/RolandoU548/" >
-  <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&include_all_commits=true&count_private=true&show_icons=true&theme=default#gh-light-mode-only&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&include_all_commits=true&count_private=true&show_icons=true&theme=default#gh-dark-mode-only&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742" width="60%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandou548&show_icons=true&theme=default#gh-light-mode-only&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742" width="60%"  alt="rolandou548"/>
 </a>
 </div>
