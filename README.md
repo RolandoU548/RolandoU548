@@ -27,7 +27,7 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="border-radius: 50%;" />
 </p>
 <h2 align="center">🧑🏻‍💻Languages and Tools🌐</h2>
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,express,bootstrap,sass,git,cpp,vscode,docker,firebase,postman,supabase,py,flask,github,vite&perline=10" alt="technologies" p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,express,bootstrap,sass,git,cpp,vscode,docker,firebase,postman,supabase,py,flask,github,vite,astro&perline=7" alt="technologies" p>
 </p>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
