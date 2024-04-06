@@ -15,6 +15,8 @@
   
 - 📫 How to reach me **rolandou548@gmail.com**.
 
+- 👀 See my Personal <b><a href="https://portfolio.com" target="_blank">Portfolio</a></b> to get more info
+
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h3>
 <p align="center">
   <a href="https://github.com/RolandoU548" target="_blank">
