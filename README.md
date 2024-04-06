@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, <b><a href="https://drive.google.com" target="_blank">MY RESUME</a></b>
 
--🚩 Interested in Machine Learning and Data Science
+- Fino
 
 - 📫 How to reach me **rolandou548@gmail.com**
 
