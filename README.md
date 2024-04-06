@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rolandou548@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h3>
 <p align="left">
   <a href="https://github.com/RolandoU548" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
