@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&random=false&width=435&lines=Full-Stack-Developer,;Computer+Science+Student,;Active+Learner/Researcher" alt="Typing SVG" />
 </p>
 
+<div>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/)
 
@@ -13,6 +14,7 @@
 - 🚩 Interested in Machine Learning and Data Science
 
 - 📫 How to reach me **rolandou548@gmail.com**
+</div>
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h3>
 <p align="center">
