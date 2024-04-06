@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&random=false&width=435&lines=Full-Stack-Developer,;Computer+Science+Student,;Active+Learner/Researcher" alt="Typing SVG" />
 </p>
 
-<img  align="right" src=https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif width="50%" />
+<img  align="right" src=https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif width="50%" />
 <h2>⚡🙋‍♂️ About Me</h2>
 - 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/)
 
