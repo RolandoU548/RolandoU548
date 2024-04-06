@@ -12,11 +12,11 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h3>
 <p align="center">
   <a href="https://github.com/RolandoU548" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github />
       <a href=https://linkedin.com/in/rolando-uzcátegui target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=181717&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=181717&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
   <a href="mailto:rolandou548@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-left: 500px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="border-radius: 50%;" />
 </p>
 
 <h2 align="center">📊 Languages and Tools 📊</h2>
