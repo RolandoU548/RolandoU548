@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++** and Express
 
 - 📫 How to reach me **rolandou548@gmail.com**
 
