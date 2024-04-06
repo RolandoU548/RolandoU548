@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **C++** and Express
 
-- 🔭 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, <a href="https://drive.google.com" target="_blank">MY RESUME.</a>
+- 🔭 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, <b><a href="https://drive.google.com" target="_blank">MY RESUME.</a></b>
 
 - 📫 How to reach me **rolandou548@gmail.com**
 
