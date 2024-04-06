@@ -31,6 +31,6 @@
 <div align="center">
 <a href="https://github.com/RolandoU548/" >
   <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9E9EFF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,0A0637" width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7E7EDF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="60%"  alt="rolandou548"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7E7EDF&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,0A0637" width="60%"  alt="rolandou548"/>
 </a>
 </div>
