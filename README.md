@@ -19,7 +19,7 @@
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=181717&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">📊 Languages and Tools 📊</h2>
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,express,bootstrap,sass,git,cpp,vscode,docker,firebase,postman,supabase,py,flask,github&perline=10" alt="technologies" p>
 </p>
 
