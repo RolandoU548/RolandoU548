@@ -5,13 +5,13 @@
 </p>
 <img align="right" src="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif" alt="RolandoU548" width="20%"/>
 
-- 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/)
+- 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/).
 
-- 🌱 I’m learning **C++**, Express and Figma
+- 🌱 I’m learning **C++**, Express and Figma.
 
-- 🔭 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, <b><a href="https://drive.google.com" target="_blank">MY RESUME</a></b>
+- 🔭 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, <b><a href="https://drive.google.com" target="_blank">MY RESUME</a></b>.
 
-- 🚩 Interested in Machine Learning and Data Science
+- 🚩 Interested in Machine Learning and Data Science.
 
 - 📫 How to reach me **rolandou548@gmail.com**
 
