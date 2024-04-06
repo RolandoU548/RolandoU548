@@ -13,7 +13,7 @@
 
 - 🚩 Interested in Machine Learning and Data Science.
 
-- 📫 How to reach me **rolandou548@gmail.com**
+- 📫 How to reach me **rolandou548@gmail.com**.
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h3>
 <p align="center">
