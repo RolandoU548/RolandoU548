@@ -30,7 +30,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,express,bootstrap,sass,git,cpp,vscode,docker,firebase,postman,supabase,py,flask,github,vite,astro&perline=7" alt="technologies" p>
 </p>
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Gɪᴛʜᴜʙ Sᴛᴀᴛs <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"></h2>
 <div align="center">
   <a href="https://github.com/rolandou548#gh-dark-mode-only" target="_blank">
      <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742" alt="RolandoU548's GitHub stats-Dark" width="60%">
