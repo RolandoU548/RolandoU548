@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,express,bootstrap,sass,git,cpp,vscode,docker,firebase,postman,supabase,py,flask,github&perline=10" alt="technologies" p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,express,bootstrap,sass,git,cpp,vscode,docker,firebase,postman,supabase,py,flask,github&perline=10" alt="technologies" p>
 </p>
 <div align="center">
 <a href="https://github.com/RolandoU548/" >
