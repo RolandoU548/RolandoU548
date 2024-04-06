@@ -4,11 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2D9DCFFF&center=true&random=false&width=435&lines=Full-Stack-Developer,;Computer+Science+Student,;Active+Learner/Researcher" alt="Typing SVG" />
 </p>
 <img align="right" src="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif" alt="RolandoU548" width="20%"/>
+
 - 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/).
+  
 - 🌱 I’m learning **C++**, Express and Figma.
+  
 - 🔭 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, <b><a href="https://drive.google.com" target="_blank">MY RESUME</a></b>.
+  
 - 🚩 Interested in Machine Learning and Data Science.
+  
 - 📫 How to reach me **rolandou548@gmail.com**.
+
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h3>
 <p align="center">
   <a href="https://github.com/RolandoU548" target="_blank">
