@@ -4,7 +4,7 @@
 </p>
 
   <p>
-    - 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/)
+- 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/)
 
 - 🌱 I’m learning **C++** and Express
 
