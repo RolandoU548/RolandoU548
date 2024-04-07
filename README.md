@@ -46,5 +46,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20"  alt="RolandoU548's GitHub stats-Dark" width="60%">
   </a>
 </div>
-
-<img src="https://github-readme-stats.vercel.app#gh-dark-mode-only/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742" alt="RolandoU548's GitHub stats-Dark" width="60%">
