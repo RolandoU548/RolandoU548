@@ -51,7 +51,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742" alt="RolandoU548's GitHub stats-Dark" width="60%">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20" alt="RolandoU548's GitHub stats-Dark" width="60%">
-    <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742" width="20%" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=rolandou548&show_icons=true&locale=en&layout=compact&line_height=20&title_color=819be9&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,091742" width="60%" align="right">
   </picture>
 </div>
 
