@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rolando Uzcátegui</h1>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="gif" src="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif" alt="RolandoU548" width="20%" align="right">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" alt="RolandoU548" width="20%" align="right">
+  <img src="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif" alt="RolandoU548" width="20%" align="right">
 </picture>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
