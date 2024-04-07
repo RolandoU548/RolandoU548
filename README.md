@@ -10,17 +10,17 @@
   <img src="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif" alt="RolandoU548" width="20%" align="right">
 </picture>
 
-- 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/).
+- 🔭 I’m currently working on **[C² Developer Group](https://c2developergroup.github.io/)**.
   
 - 🌱 I’m learning **C++**, Express and Figma.
   
-- 🔭 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, <b><a href="https://drive.google.com" target="_blank">My Resume</a></b>.
+- 🔭 I’m currently open for: **An Intern** or a new **job opportunity**, **<a href="https://drive.google.com" target="_blank">My Resume</a>**.
   
 - 🚩 Interested in Machine Learning and Data Science.
   
 - 📫 How to reach me **rolandou548@gmail.com**.
 
-- 👀 See my <b><a href="https://portfolio.com" target="_blank">Personal Portfolio</a></b> to get more info.
+- 👀 See my **<a href="https://portfolio.com" target="_blank">Personal Portfolio</a>** to get more info.
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h3>
 <p align="center">
