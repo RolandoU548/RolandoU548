@@ -1,14 +1,14 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rolando Uzcátegui</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2D9DCFFF&center=true&random=false&width=435&lines=Full-Stack-Developer,;Computer+Science+Student,;Active+Learner/Researcher" alt="Typing SVG" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif" alt="RolandoU548" width="20%" align="right">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" alt="RolandoU548" width="20%" align="right">
   <img src="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif" alt="RolandoU548" width="20%" align="right">
 </picture>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2D9DCFFF&center=true&random=false&width=435&lines=Full-Stack-Developer,;Computer+Science+Student,;Active+Learner/Researcher" alt="Typing SVG" />
-</p>
-<img align="right" src="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif" alt="RolandoU548" width="20%"/>
 
 - 🔭 I’m currently working on [C² Developer Group](https://c2developergroup.github.io/).
   
