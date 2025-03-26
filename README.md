@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/RolandoU548/RolandoU548/main/assets/animation.gif" alt="RolandoU548" width="20%" align="right">
 </picture>
 
-- 🔭 I’m currently working on **[C² Developer Group](https://c2developergroup.github.io/)**.
+- 🔭 I’m currently working on **[C² Developer Group](https://rolandou548.github.io/c2developergroup.github.io/)**.
   
 - 🌱 I’m learning **C++**, Express and Figma.
   
