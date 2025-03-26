@@ -14,7 +14,7 @@
   
 - 🌱 I’m learning **C++**, Express and Figma.
   
-- 🔭 I’m currently open for: **An Intern** or a new **job opportunity**, **<a href="https://drive.google.com/file/d/1y4FvIZakHOb_rqpzWd5pYzX3FBesuxwf/view" target="_blank">My Resume</a>**.
+- 🔭 I’m currently open for: **An Intern** or a new **job opportunity**, **<a href="https://drive.google.com/file/d/1_S55-UcBBiTosUd2kzm4zqRTNA4u_2P2/view" target="_blank">My Resume</a>**.
   
 - 🚩 Interested in Machine Learning and Data Science.
   
